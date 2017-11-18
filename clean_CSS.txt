@@ -18,7 +18,7 @@
 /*-------------- Responsive rules --------------*/
 
 /* 
-============== REMEMEBER!!! =============
+============== REMEMBER!!! =============
 Use ALPHABETCIAL ORDER to write your properties! 
 =========================================
 */
